@@ -1,0 +1,140 @@
+[
+  {
+    "slug": "oliver-kirchner",
+    "name": "Oliver Kirchner",
+    "title": "Fraktionsvorsitz (Co)",
+    "image": "Oliver_Kirchner_Aquarell.png"
+  },
+  {
+    "slug": "ulrich-siegmund",
+    "name": "Ulrich Siegmund",
+    "title": "Fraktionsvorsitz (Co)",
+    "image": "Ulrich_Siegmund_Aquarell.png"
+  },
+  {
+    "slug": "hans-thomas-tillschneider",
+    "name": "Dr. Hans-Thomas Tillschneider",
+    "title": "1. stellv. Fraktionsvorsitz",
+    "image": "Hans-Thomas_Tillschneider_Aquarell.png"
+  },
+  {
+    "slug": "gordon-koehler",
+    "name": "Gordon Köhler",
+    "title": "2. stellv. Fraktionsvorsitz",
+    "image": null
+  },
+  {
+    "slug": "matthias-buettner-(stassfurt)",
+    "name": "Matthias Büttner (Staßfurt)",
+    "title": "3. stellv. Fraktionsvorsitz",
+    "image": null
+  },
+  {
+    "slug": "tobias-rausch",
+    "name": "Tobias Rausch",
+    "title": "Parlamentarischer Geschäftsführer",
+    "image": null
+  },
+  {
+    "slug": "matthias-buettner-(stendal)",
+    "name": "Matthias Büttner (Stendal)",
+    "title": "MdL",
+    "image": null
+  },
+  {
+    "slug": "christian-hecht",
+    "name": "Christian Hecht",
+    "title": "Sprecher für Recht & Verfassung",
+    "image": null
+  },
+  {
+    "slug": "mathias-knispel",
+    "name": "Mathias Knispel",
+    "title": "MdL",
+    "image": null
+  },
+  {
+    "slug": "hagen-kohl",
+    "name": "Hagen Kohl",
+    "title": "Sprecher für Ã–ffentlichen Dienst",
+    "image": null
+  },
+  {
+    "slug": "nadine-koppehel",
+    "name": "Nadine Koppehel",
+    "title": "Sprecherin für Petitionen",
+    "image": null
+  },
+  {
+    "slug": "matthias-lieschke",
+    "name": "Matthias Lieschke",
+    "title": "Sprecher für Wirtschaft",
+    "image": null
+  },
+  {
+    "slug": "frank-otto-lizureck",
+    "name": "Frank Otto Lizureck",
+    "title": "Sprecher für Tourismus",
+    "image": null
+  },
+  {
+    "slug": "christian-mertens",
+    "name": "Christian Mertens",
+    "title": "MdL",
+    "image": null
+  },
+  {
+    "slug": "jan-moldenhauer",
+    "name": "Dr. Jan Moldenhauer",
+    "title": "Sprecher für Energie",
+    "image": null
+  },
+  {
+    "slug": "daniel-rausch",
+    "name": "Daniel Rausch",
+    "title": "Sprecher für Seniorenpolitik",
+    "image": "Daniel_Rausch_Aquarell.png"
+  },
+  {
+    "slug": "jan-scharfenort",
+    "name": "Jan Scharfenort",
+    "title": "Sprecher für Kommunalpolitik & Kommunalfinanzen",
+    "image": null
+  },
+  {
+    "slug": "florian-schroeder",
+    "name": "Florian Schröder",
+    "title": "Sprecher für Jagd- & Schützenwesen",
+    "image": null
+  },
+  {
+    "slug": "felix-zietmann",
+    "name": "Felix Zietmann",
+    "title": "Sprecher für Drogenpolitik",
+    "image": null
+  },
+  {
+    "slug": "margret-wendt",
+    "name": "Margret Wendt",
+    "title": "Sprecherin für Verbraucherschutz",
+    "image": null
+  },
+  {
+    "slug": "daniel-wald",
+    "name": "Daniel Wald",
+    "title": "Sprecher für Kassen, Rechnungen & Rechnungsprüfung",
+    "image": null
+  },
+  {
+    "slug": "lothar-waehler",
+    "name": "Lothar Waehler",
+    "title": "Sprecher für Handwerkspolitik",
+    "image": null
+  },
+  {
+    "slug": "daniel-roi",
+    "name": "Daniel Roi",
+    "title": "Sprecher für Umwelt",
+    "image": null
+  }
+]
